@@ -8,7 +8,7 @@ $conf = array();
 $Mind = new Mind($conf);
 
 
-define('DOMAIN', 'https://supdomainsnmatr.duckdns.org/xrot');
+define('DOMAIN', 'https://atacan12.github.io/xrot');
 
 define('USERAGENT', 'brafox');
 
